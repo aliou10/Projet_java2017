@@ -51,8 +51,8 @@ CREATE TABLE `membres` (
 --
 
 INSERT INTO `membres` (`login`, `mdpasse`, `Prenom`, `Nom`, `DateNaiss`, `Email`, `Adresse`, `Tel`, `TelBureau`, `Faxe`) VALUES
-  ('aliou', 'passer', 'Aliou', 'Diallo', '2017-04-20', 'dialloallio@esp.sn', 'yoff', '778011598', '', ''),
-  ('mamour', 'repasser', 'Mamour', 'Tall', '2016-09-12', 'Coolertall@gmail.com', 'rufisque', 'perdu', '', ''),
+  ('aliou', 'passer', 'Aliou', 'Diallo', '2017-04-20', 'dialloaliou@esp.sn', 'yoff', '778011598', '', ''),
+  ('mamour', 'repasser', 'Mamour', 'Tall', '2016-09-12', 'coolertall@gmail.com', 'rufisque', 'laBonne', '', ''),
   ('moussa', 'repasser', 'Moussa', 'Ndiaye', '2017-02-18', 'ndiayemoussa@esp.sn', 'bargny', '774009184', '', '');
 
 -- --------------------------------------------------------
